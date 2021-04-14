@@ -1,5 +1,5 @@
 # NOTAS
-Desarrollando una pequeña aplicación en nodejs que crea tablas de multiplicar y las guarda en ficheros txt.
+Pequeña aplicación en nodejs que crea tablas de multiplicar y las guarda en ficheros txt.
 
 ```
 Options:
